@@ -1,4 +1,9 @@
-"""Atividade 2
+"""
+Atividade Prática 05
+Aluna: Airan Rejane
+Escola da Nuvem - Aulas técnicas do curso Fundamentos de AWS
+
+Atividade 2
 
 Crie uma função que verifique se uma palavra ou frase é um palíndromo 
 (lê-se igual de trás para frente, ignorando espaços e pontuação). 
